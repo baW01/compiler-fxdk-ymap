@@ -16,7 +16,11 @@ This program allows you to easily convert `.fxworld` files created in FxDK into 
 4. **Click "Convert"**  
    Start the conversion process by clicking the **Convert** button.
 
-5. **Done!**  
+5. **Process the Generated File**  
+   The program will create a `.ymap.xml` file in the same directory as the source file.  
+   Use OpenIV to open this `.ymap.xml` file and save it as a `.ymap` file.
+
+6. **Done!**  
    Your `.ymap` file is now ready. You can upload it directly to your server.
 
 ---
@@ -32,4 +36,5 @@ This program allows you to easily convert `.fxworld` files created in FxDK into 
 ## Requirements
 
 - An `.fxworld` file created in FxDK.
+- **OpenIV**: Required to convert the generated `.ymap.xml` file into a `.ymap` file.
 - Windows/Linux/MacOS (depending on the platform the program supports).
