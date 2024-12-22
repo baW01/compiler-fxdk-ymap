@@ -1,4 +1,4 @@
-# FXWorld to YMAP Converter
+# .fxworld to .ymap Converter
 
 TUTORIAL
 https://streamable.com/b2uqmb
