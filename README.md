@@ -1,6 +1,7 @@
 # FXWorld to YMAP Converter
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/b2uqmb?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+TUTORIAL
+https://streamable.com/b2uqmb
 
 This program allows you to easily convert `.fxworld` files created in FxDK into `.ymap` files, ready to be uploaded to your server.
 
